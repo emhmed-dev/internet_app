@@ -1,0 +1,24 @@
+p{
+    color: rgb(0, 0, 0);
+  /* text-indent:50px;هدي اتسيب مسافه بيتها وبين الحاشية*/
+  /*text-decoration: line-through;ادير خط على حسب وين تبيه انت*/
+ /* letter-spacing: 10px;مسافه بين الحروف*/
+}
+body{
+    background:rgb(219, 7, 7);
+  /* background-image: url(emhemed/17926.jpg); صوره خلفية*/
+  
+ /* background-attachment: fixed;صوره ثابته*/
+
+}h1{
+    color: black;
+   /* font-variant: small-caps;هدي مختصه بالحروف الانجليزيه*/
+  /* font-weight: bold;سمك الخط*/
+}a{
+     color: rgb(9, 9, 243);
+    /* text-decoration: none; اتحول الخط*/
+}
+a:hover{
+   /* color: black;تغير اللون لما تضغط عليه*/
+
+}

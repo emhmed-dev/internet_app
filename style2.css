@@ -1,0 +1,45 @@
+.container{
+    width: 800px;
+    margin: auto;
+    text-align: center;
+    padding-top: 40px;
+}
+.listproduct .item img{
+    width: 80%;
+}
+.listproduct{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 40px;
+
+}
+.listproduct .item{
+    background-color: rgb(204, 203, 203);
+    padding: 20px ;
+    border-radius: 15px;
+    transition: 0.5s;
+}
+.listproduct .item:hover{
+    transform: scale(1.05);
+
+}
+.listproduct .item h2{
+    font-size: large;
+}
+a{
+    text-decoration: none;
+    background: white;
+    color: black;
+    padding: 8px 15px;
+    border-radius: 15px;
+}
+body{
+    background-color: #050824;
+ 
+}
+center{
+    color: #ffffff;
+}
+hr{
+    color: #ffffff;
+}

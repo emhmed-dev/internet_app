@@ -1,0 +1,23 @@
+body{
+    background-color: tan;
+}
+h1{
+    color: maroon;
+    font-size: 20pt;
+    
+}
+hr{
+    color: navy;
+}
+a:link{
+    color: green;
+}
+a:hover{
+    color: black;
+}
+a:visited{
+    color: yellow;
+}
+a:active{
+    color: blue;
+}
